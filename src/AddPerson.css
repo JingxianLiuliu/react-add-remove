@@ -1,0 +1,15 @@
+.person-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Center the person divs */
+  margin: 10px 20px; /* Set top and bottom margin to 10px, left and right margin to 20px */
+}
+
+.person {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  text-align: center;
+}
